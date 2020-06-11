@@ -1,0 +1,57 @@
+body{
+	background-color:#f3f3f3;
+}
+.Text{
+	text-align: center;
+}
+#Header{
+	background-image: url('/lab5/img/Puteshestvie1120x450.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment:relative;
+	text-align: center center;
+	width: 100%;
+	min-height: 345px;
+	
+}
+#Header1{
+	background-color: #4649ff;
+	border: 0px;
+}
+#Header2{
+	margin-top: 100px;
+	content: counter counter;
+
+}
+#Header2Form{
+	padding-left: 10%;
+	padding-right: 10%;
+
+}
+#button-addon2{
+	background-color: #ffff7f;
+	border-color:#ced4da;
+}
+#button-addon2:hover{
+	color: #000000;
+}
+#Opportunities{
+	margin-top: 40px;
+}
+#Cards{
+	margin-top: 40px;
+}
+#Footer{
+	margin-top: 40px;
+	border-top: 50px;
+	border-color: #000000;
+}
+#Footer2{
+	margin-top: 40px;
+	background-color:#c9c9c9;
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	color: #ffffff;
+}

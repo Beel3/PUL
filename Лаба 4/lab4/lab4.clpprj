@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\xampp\htdocs\lab4\lab4.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/C:/xampp/htdocs/lab4]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/C:/xampp/htdocs/lab4]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\xampp\htdocs\lab4\index.php"/>
+  <file name="C:\xampp\htdocs\lab4\inc\about\gbook.php"/>
+  <file name="C:\xampp\htdocs\lab4\inc\index.inc.php"/>
+  <file name="C:\xampp\htdocs\lab4\inc\lids\lids.inc.php"/>
+  <file name="C:\xampp\htdocs\lab4\inc\contact\contact.inc.php"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <todoblock/>
+ <dbgurls/>
+ <filescache>
+  <file crc="1589039290327" name="C:\xampp\htdocs\lab4\inc\lids\css\main.css"/>
+  <file crc="1589479623653" name="C:\xampp\htdocs\lab4\inc\lids\lids.txt"/>
+  <file crc="1589479282316" name="C:\xampp\htdocs\lab4\inc\lids\lids.inc.php"/>
+  <file crc="1589039290327" name="C:\xampp\htdocs\lab4\inc\contact\css\main.css"/>
+  <file crc="1589479599488" name="C:\xampp\htdocs\lab4\inc\contact\contact.inc.php"/>
+  <file crc="1589039290327" name="C:\xampp\htdocs\lab4\inc\about\css\main.css"/>
+  <file crc="1589478638396" name="C:\xampp\htdocs\lab4\inc\about\reviews.txt"/>
+  <file crc="1589478707357" name="C:\xampp\htdocs\lab4\inc\about\gbook.php"/>
+  <file crc="1589477230152" name="C:\xampp\htdocs\lab4\inc\about\about.inc.php"/>
+  <file crc="1589479173556" name="C:\xampp\htdocs\lab4\inc\index.inc.php"/>
+  <file crc="1589472274465" name="C:\xampp\htdocs\lab4\css\main.css"/>
+  <file crc="1589372311410" name="C:\xampp\htdocs\lab4\routing.php"/>
+  <file crc="1589479388831" name="C:\xampp\htdocs\lab4\index.php"/>
+ </filescache>
+</project>

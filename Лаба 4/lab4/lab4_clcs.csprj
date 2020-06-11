@@ -1,0 +1,19 @@
+
+<codestructure version="1.7.1">
+<phptree>
+<treenode node="inc/about/about.inc.php;PHP:PHP Include;C:\xampp\htdocs\lab4\routing.php;f25;8;48;8;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="inc/contact/contact.inc.php;PHP:PHP Include;C:\xampp\htdocs\lab4\routing.php;f27;6;54;6;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="inc/gbook.inc.php;PHP:PHP Include;C:\xampp\htdocs\lab4\routing.php;f25;9;42;9;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="inc/index.html;PHP:PHP Include;C:\xampp\htdocs\lab4\routing.php;f25;7;39;7;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="inc/index.inc.php;PHP:PHP Include;C:\xampp\htdocs\lab4\routing.php;f20;10;37;10;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="routing.php;PHP:PHP Include;C:\xampp\htdocs\lab4\index.php;f11;55;22;55;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+</phptree>
+<jstree>
+</jstree>
+</codestructure>
